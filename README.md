@@ -3,7 +3,7 @@
 2. Thành viên hiện tại:
    > **Tô Phú Quý**
    
-   > **Trần Thiên Quang**
+   > **Trần Thiên Quang(leader)**
 3. Tính năng dự kiến:
    > 2 màn chơi
      - 4x4 : 5 cặp
@@ -16,3 +16,7 @@
    > Lưu kỷ lục
    
    > *(Vật phẩm hỗ trợ nâng thời gian, nâng điểm...) cập nhật sau nếu được* 
+4. Phân công
+   - Hình ảnh: Quý
+   - Cơ chế: Quang, Quý  
+   - Thiết kế màn chơi: Quang
