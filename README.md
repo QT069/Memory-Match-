@@ -17,6 +17,6 @@
    
    > *(Vật phẩm hỗ trợ nâng thời gian, nâng điểm...) cập nhật sau nếu được* 
 4. Phân công
-   - Hình ảnh: Quý
+   - Hình ảnh, UI: Quý
    - Cơ chế: Quang, Quý  
    - Thiết kế màn chơi: Quang
