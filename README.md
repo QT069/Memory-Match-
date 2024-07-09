@@ -6,9 +6,8 @@
    > **Trần Thiên Quang(leader)**
 3. Tính năng dự kiến:
    > 2 màn chơi
-     - 4x4 : 5 cặp
-     - 6x6 : 10 cặp
-       
+     - 4x4 
+     - 6x6 
    > Giới hạn số cặp **được chọn sai** của mỗi màn chơi
    
    > Tính điểm (1-2-3 sao) theo mốc thời gian
